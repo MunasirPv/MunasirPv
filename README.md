@@ -10,7 +10,7 @@ I am a **Senior Mobile Engineer** based in Kerala, India, with **5+ years of exp
 
 I don't just write code; I architect systems. My focus is on **Clean Architecture**, scalable state management, and optimizing developer velocity using modern AI workflows. Currently, I am exploring **GraphQL** and building health-tech solutions.
 
-* 🔭 **I’m currently working on:** Enterprise-grade Flutter apps & [Family Health Vault - *Project Name*]
+* 🔭 **I’m currently working on:** Enterprise-grade Flutter apps & [Family Health Vault - *Aegis*]
 * 🌱 **I’m currently learning:** Advanced GraphQL patterns & Backend-for-Frontend strategies
 * 👯 **I’m looking to collaborate on:** Open Source Flutter packages & Tooling
 * 💬 **Ask me about:** Flutter Architecture, Bloc/Provider, Dart, and App Performance Optimization.
