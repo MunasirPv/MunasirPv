@@ -5,7 +5,7 @@ Hi, I'm **Munasir Pv**, a **Senior Flutter Developer** and **Team Lead** based i
 I have been working in the IT industry since **2015**, starting my career as a **Java Developer (Hibernate)** before finding my passion in cross-platform mobile engineering. This strong backend foundation allows me to design better data layers and API integrations in mobile apps.
 
 * **Current Focus:** Building production-ready Flutter applications and leading development teams.
-* **Engineering Philosophy:** I focus on writing **maintainable code**, robust **State Management** (Bloc/Provider), and leveraging modern **AI workflows** (Cursor, Copilot) to boost developer velocity.
+* **Engineering Philosophy:** I focus on writing **maintainable code**, robust **State Management** (Rivepod/Provider), and leveraging modern **AI workflows** (Cursor, Copilot) to boost developer velocity.
 * **Beyond Code:** I am currently exploring **GraphQL** integrations and building a personal health-tech project called *Family Health Vault*.
 
 ---
