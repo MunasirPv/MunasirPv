@@ -35,8 +35,8 @@ I don't just write code; I architect systems. My focus is on **Clean Architectur
 ---
 
 ### 📈 GitHub Stats
-![Munasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Munasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=MunasirPv&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MunasirPv&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
