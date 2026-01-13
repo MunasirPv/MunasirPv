@@ -1,19 +1,12 @@
-# Hi there, I'm Munasir Pv 👋
+## 👨‍💻 About Me
 
-### 🚀 Senior Flutter Developer | Mobile Team Lead
-*Building high-performance, scalable mobile applications since 2015.*
+Hi, I'm **Munasir Pv**, a **Senior Flutter Developer** and **Team Lead** based in Kerala, India. 
 
----
+I have been working in the IT industry since **2015**, transitioning from native Android (Java) to becoming a specialist in cross-platform mobile development.
 
-### 👨‍💻 About Me
-I am a **Senior Mobile Engineer** based in Kerala, India, with **5+ years of experience** shipping cross-platform solutions. 
-
-I don't just write code; I architect systems. My focus is on **Clean Architecture**, scalable state management, and optimizing developer velocity using modern AI workflows. Currently, I am exploring **GraphQL** and building health-tech solutions.
-
-* 🔭 **I’m currently working on:** Enterprise-grade Flutter apps & [Family Health Vault - *Aegis*]
-* 🌱 **I’m currently learning:** Advanced GraphQL patterns & Backend-for-Frontend strategies
-* 👯 **I’m looking to collaborate on:** Open Source Flutter packages & Tooling
-* 💬 **Ask me about:** Flutter Architecture, Bloc/Provider, Dart, and App Performance Optimization.
+* **Current Focus:** Building production-ready Flutter applications and leading development teams.
+* **Engineering Philosophy:** I focus on writing **maintainable code**, robust **State Management** (Bloc/Provider), and leveraging modern **AI workflows** (Cursor, Copilot) to boost developer velocity.
+* **Beyond Code:** I am currently exploring **GraphQL** integrations and building a personal health-tech project called *Family Health Vault*.
 
 ---
 
